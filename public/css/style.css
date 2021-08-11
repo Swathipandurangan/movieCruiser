@@ -1,0 +1,8 @@
+body {
+	margin: 0;
+}
+
+img.poster {
+	width: 180px;
+	max-height: 250px;
+}

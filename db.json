@@ -1,0 +1,61 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Little Miss SunShine",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/50%20little%20miss%20sunshine.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mean Streets",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/48%20Mean%20Streets.jpg"
+    },
+    {
+      "id": 3,
+      "title": "LORD Of WAR",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/47%20Lord%20of%20War.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Manhattan",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/46%20Manhattan.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "The Social Network",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/42%20The%20Social%20Network.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Scream",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/40%20Scream.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Moon",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/39%20Moon.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Metropolis",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/33%20Metropolis.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "title": "Little Miss SunShine",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/50%20little%20miss%20sunshine.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mean Streets",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/48%20Mean%20Streets.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Manhattan",
+      "posterPath": "https://cdn.onebauer.media/one/empire-images/features/59e8d795405a5c6805947751/46%20Manhattan.jpeg"
+    }
+  ]
+}
